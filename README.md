@@ -5,7 +5,7 @@ the company faces the pressing need to address customer churn, which poses a sig
 They aim to develop a robust customer churn prediction system
 
 ## Project Objective
-to accurately forecast customer churn and implement targeted retention initiatives.
+To build and train a robust machine learning model that can  accurately forecast customer churn and also to  implement targeted retention initiatives.
 
 ## Data source
 The data source used in this project was provided by 10alytics
